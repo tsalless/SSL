@@ -1,0 +1,2 @@
+Hello, World!
+Compilado con el estandar C: 202311
